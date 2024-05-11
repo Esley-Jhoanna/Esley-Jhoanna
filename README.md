@@ -8,7 +8,7 @@ With over 9 years of experience in web and mobile application development, I hav
             height: 350;
             overflow: hidden;
             position: relative;
-            display: flex;
+            display: block;
             justify-content: center;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnYzdmY2bHpucHo2aXhiMDVwNmNieTVsdTh2cWc0YjdmYzVlYWxkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g06HKnMmtK1aXurndU/giphy.gif" width="800" height="400" style = "           width: 800px;
             height: auto;
