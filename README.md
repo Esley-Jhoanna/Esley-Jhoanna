@@ -42,6 +42,7 @@ My proficiency extends to AI and machine learning technologies, with hands-on ex
 ✅Shopify<br/>
 Whether it's custom theme development, theme customization, app integration, or search engine optimization, I possess the skills and acumen to optimize your Shopify storefront for maximum impact and performance.<br/>
 
+<br/>
 ### 🛠️ Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
