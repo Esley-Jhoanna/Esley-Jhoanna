@@ -1,10 +1,17 @@
 <h1>👋, Full Stack Developer <strong>(9 years of experience)</strong></h1>
-
+<style>
+  
+</style>
 ### 👨‍💻 About me:
 With over 9 years of experience in web and mobile application development, I have delivered over 200 projects for businesses and hold a Bachelor's degree in computer science. My expertise lies in turning ideas into visually appealing and fully functional web applications. My work ethos is anchored in agile development practices, adherence to top industry standards, and a steadfast dedication to meeting project deadlines.
 
 
-<div align="center">
+<div align="center" style = "            width: 800px;
+            height: 350;
+            overflow: hidden;
+            position: relative;
+            display: flex;
+            justify-content: center;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnYzdmY2bHpucHo2aXhiMDVwNmNieTVsdTh2cWc0YjdmYzVlYWxkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g06HKnMmtK1aXurndU/giphy.gif" width="600" height="400"/>
 </div>
 
