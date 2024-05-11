@@ -1,7 +1,5 @@
 <h1>👋, Full Stack Developer <strong>(9 years of experience)</strong></h1>
-<style>
-  
-</style>
+
 ### 👨‍💻 About me:
 With over 9 years of experience in web and mobile application development, I have delivered over 200 projects for businesses and hold a Bachelor's degree in computer science. My expertise lies in turning ideas into visually appealing and fully functional web applications. My work ethos is anchored in agile development practices, adherence to top industry standards, and a steadfast dedication to meeting project deadlines.
 
